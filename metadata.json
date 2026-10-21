@@ -1,0 +1,6 @@
+{
+  "name": "CareBridge AI",
+  "description": "Voice-first, multilingual AI healthcare access coordination platform — No Patient Left Behind.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

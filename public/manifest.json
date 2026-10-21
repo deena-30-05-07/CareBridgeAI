@@ -1,0 +1,17 @@
+{
+  "short_name": "CareBridge",
+  "name": "CareBridge AI — No Patient Left Behind",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0f766e",
+  "theme_color": "#0d9488",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "Voice-first, multilingual AI healthcare access coordination platform"
+}
